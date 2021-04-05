@@ -23,7 +23,7 @@ An index for my github repositories.
 
 ----
 ## Implementations for my personal understanding
-I like to reimplement algorithms or play with new concepts I learn to get a better understanding of their inner workings and subtleties. These repositories contain several algorithms that I have studied either in class, doing research or on my own. 
+I like to reimplement algorithms or play with new concepts I learn to get a better understanding of their inner workings and subtleties. These repositories contain several algorithms that I have studied either in class (sometimes in group), doing research or on my own. 
 
 
 * **[Machine Learning Algorithms](https://github.com/ctrnh/machine_learning_algorithms)**:
@@ -36,13 +36,13 @@ I like to reimplement algorithms or play with new concepts I learn to get a bett
 
 <br />
 
-* **[Reinforcement Learning Algorithms](https://github.com/ctrnh/reinforcement_learning_algorithms)**:
+* **[Reinforcement Learning Algorithms](https://github.com/ctrnh/reinforcement_learning_algorithms)**: *Some implementations of classic algorithms, applied to toy environments such as cartpole*
   - Reinforce
   - Actor Critic
 
 <br />
 
-* **[Trajectory Optimization](https://github.com/ctrnh/trajectory_optimization)**:
+* **[Trajectory Optimization](https://github.com/ctrnh/trajectory_optimization)**: *Optimal control algorithms, elegant theory, and interesting to compare to black box Reinforcement Learning algorithms for simple problems such as cartpole* 
   - Linear Quadratic Regulator (LQR)
   - iterative Linear Quadratic Regulator (iLQR)
 
@@ -50,7 +50,7 @@ I like to reimplement algorithms or play with new concepts I learn to get a bett
 
 ## Research paper implementations
 
-* **[Linear Contextual Bandits](https://arxiv.org/pdf/1809.08151)**
+* **[Linear Contextual Bandits](https://github.com/ctrnh/LinearContextualBandits)**
   - **Mostly Exploration-Free Algorithms for Contextual Bandits**, Hamsa Bastani, Mohsen Bayati, Khashayar Khosravi 
   - **Adaptive Exploration in Linear Contextual Bandit**, Botao Hao, Tor Lattimore, Csaba Szepesvari 
 
