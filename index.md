@@ -15,7 +15,7 @@ title: Home
 <center> <span style="font-size:1.4em">Hi, Welcome to my webpage! </span></center>
 
 <br />
-I am currently a Data Scientist at Cdiscount, a french e-commerce company. There, I design, implement and put machine learning algorithms to production to solve problems such as recommending relevant items to customers, regulate advertising budgets of sellers and so on.
+I am currently a Data Scientist at Cdiscount, a french e-commerce company. There, I design, implement and put machine learning algorithms to production to solve problems such as recommending relevant items to customers or regulating advertising budgets of sellers.
 
 During my studies, I had the great opportunity to do research in the field of multi-armed bandits with Prof. [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/) and Prof. [Richard Combes](http://rcombes.supelec.free.fr/index.html). I also developed multiple internal tools such as a computer vision fine-tuning pipeline during my internship at [Wintics](https://wintics.com/en/front-page/), a computer vision startup which focuses on analyzing traffic videos.
 
